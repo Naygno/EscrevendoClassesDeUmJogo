@@ -54,11 +54,11 @@ O código está organizado da seguinte forma:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <link-do-seu-repositorio>
-    cd <nome-do-repositorio>
+    git clone https://github.com/Naygno/EscrevendoClassesDeUmJogo
+    cd EscrevendoClassesDeUmJogo
     ```
 2.  **Execute o Código:**
-    Você pode executar o código diretamente em um ambiente Node.js. Certifique-se de ter o Node.js instalado em sua máquina.
+    Você pode executar o código diretamente em um ambiente Node.js. Certifique-se de entrar na pasta src e de ter o Node.js instalado em sua máquina.
     ```bash
     node index.js
     ```

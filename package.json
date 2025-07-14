@@ -1,0 +1,16 @@
+{
+  "name": "escrevendoclassesdeumjogo",
+  "version": "1.0.0",
+  "description": "Um projeto que tem como objetivo construir uma classe genérica que represente um herói de um jogo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rank",
+    "games",
+    "dio"
+  ],
+  "author": "Naygno",
+  "license": "MIT"
+}
